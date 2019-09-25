@@ -1,1 +1,2 @@
-# PROPERTYCSS2
+# part2-css
+belajar
